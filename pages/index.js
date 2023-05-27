@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="One Piece API" />
         <h2> Coming Soon! </h2>
-        <h3> mrff@tuta.io </h3>
+     
       </main>
 
       <Footer />
